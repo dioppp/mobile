@@ -51,18 +51,22 @@ class SplashHome extends StatelessWidget {
                 IconButton(
                   onPressed: () {},
                   icon: const Icon(Icons.home),
+                  padding: const EdgeInsets.all(10.0),
                 ),
                 IconButton(
                   onPressed: () {},
                   icon: const Icon(Icons.history),
+                  padding: const EdgeInsets.all(10.0),
                 ),
                 IconButton(
                   onPressed: () {},
                   icon: const Icon(Icons.inbox),
+                  padding: const EdgeInsets.all(10.0),
                 ),
                 IconButton(
                   onPressed: () {},
                   icon: const Icon(Icons.manage_accounts),
+                  padding: const EdgeInsets.all(10.0),
                 ),
               ],
             ),
